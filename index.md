@@ -7,6 +7,7 @@ Test
 
 ZFS.
 ---------
+[About zfs](zfs)
 
 It's a potential replacement of [NAS-FAQ](http://www.nas-faq.com)
 
