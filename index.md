@@ -6,3 +6,10 @@ layout: post
 ## ZFS
 
 It's a potential replacement of [NAS-FAQ](http://www.nas-faq.com)
+
+1. One
+1. Two
+
+* item
+* item
+
