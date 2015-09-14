@@ -2,4 +2,3 @@ source:      _source
 destination: _deploy
 gems:
   - jekyll-sitemap
-  - github-pages
