@@ -2,3 +2,22 @@ source:      _source
 destination: _deploy
 gems:
   - jekyll-sitemap
+
+
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            NAS FAQ
+tagline:          'NAS FAQ'
+description:      'Site with FAQ relative to self made NAS.'
+url:              http://nas-faq.nas-faq.com
+baseurl:          /
+
+github:
+  repo:           https://github.com/nas-faq/nas-faq.github.io
