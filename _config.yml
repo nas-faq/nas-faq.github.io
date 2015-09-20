@@ -1,9 +1,3 @@
-source:      _source
-destination: _deploy
-gems:
-  - jekyll-sitemap
-
-
 # Dependencies
 markdown:         redcarpet
 highlighter:      pygments
@@ -19,5 +13,10 @@ description:      'Site with FAQ relative to self made NAS.'
 url:              http://nas-faq.nas-faq.com
 baseurl:          /
 
+paginate:         1
+
 github:
   repo:           https://github.com/nas-faq/nas-faq.github.io
+
+gems:
+  - jekyll-sitemap
