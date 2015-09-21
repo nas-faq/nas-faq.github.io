@@ -1,6 +1,7 @@
 ---
 title: О чём здесь и о чём не здесь
-layout: post
+layout: page
+permalink: /about/
 ---
 
 Содержимое

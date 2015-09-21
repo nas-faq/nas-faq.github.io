@@ -1,22 +1,12 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+# Site settings
+title: "NAS FAQ"
+#email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Сайт посвящен вопросам создания NAS своими руками
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://nas-faq.nas-faq.com" # the base hostname & protocol for your site
+#twitter_username: nas-faq
+github_username:  nas-faq
 
-# Permalinks
-permalink:        pretty
-relative_permalinks: true
-
-# Setup
-title:            NAS FAQ
-tagline:          'NAS FAQ'
-description:      'Site with FAQ relative to self made NAS.'
-url:              http://nas-faq.nas-faq.com
-baseurl:          /
-
-paginate:         1
-
-github:
-  repo:           https://github.com/nas-faq/nas-faq.github.io
-
-gems:
-  - jekyll-sitemap
+# Build settings
+markdown: kramdown
