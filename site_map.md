@@ -19,4 +19,3 @@ permalink: /site_map/
   * [Особенности подключения некоторых сетевых устройств к NAS (Dune и т.п.)](../net_devices)
 * Файлы
   * [Implementing Staggered Spin Up v1](../files/Implementing Staggered Spin Up v1.pdf)
-
