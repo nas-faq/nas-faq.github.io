@@ -1,5 +1,5 @@
 # Site settings
-title: "NAS FAQ"
+title: NAS FAQ
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Сайт о создании NAS своими руками
@@ -7,10 +7,16 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://nas-faq.nas-faq.com" # the base hostname & protocol for your site
 #twitter_username: nas-faq
 github_username:  nas-faq
+# SIV: my vars
+toc_name: Содержание
 
-# Build settings
-# Conversion
+######### Build settings #########
 markdown: redcarpet
 redcarpet:
   # enable auto ids for redcarpet
-  extensions: ["with_toc_data"]
+  extensions: 
+    # - with_toc_data <- Not necessary, because we use JavaScript to make TOC on the fly.
+    - autolink # converts links in text in a real links in the HML
+
+gems:
+  - jekyll-sitemap
