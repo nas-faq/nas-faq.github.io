@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  Особенности подключения некоторых сетевых устройств к NAS
 categories: nas relative
 permalink: /net_devices/

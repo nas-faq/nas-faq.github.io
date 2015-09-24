@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  Тесно связанные с NAS вопросы
 categories: nas relative
 permalink: /nas_relative/

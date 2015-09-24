@@ -2,6 +2,7 @@
 title: О чём здесь и о чём не здесь
 layout: page
 permalink: /about/
+for_head: true
 ---
 
 ## Зачем нужен NAS дома
