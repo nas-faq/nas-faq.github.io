@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://nas-faq.nas-faq.com" # the base hostname & protocol for your site
 #twitter_username: nas-faq
-github_username:  nas-faq
+github_username:  nas-faq/nas-faq.github.io
 # SIV: my vars
 toc_name: Содержание
 
