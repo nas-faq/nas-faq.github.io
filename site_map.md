@@ -3,6 +3,7 @@ title: Карта сайта
 layout: page
 permalink: /site_map/
 for_head: true
+suppress_toc: true
 ---
 
 ## Разделы, которые Вам будут интересны
