@@ -16,7 +16,7 @@ redcarpet:
   # enable auto ids for redcarpet
   extensions: 
     # - with_toc_data <- Not necessary, because we use JavaScript to make TOC on the fly.
-    - autolink # converts links in text in a real links in the HML
+    - autolink # converts links in text in a real links in the HTML
 
 gems:
   - jekyll-sitemap
