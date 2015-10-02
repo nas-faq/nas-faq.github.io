@@ -3,6 +3,7 @@ title: Карта сайта
 layout: page
 permalink: /site_map/
 for_head: true
+for_index: true
 suppress_toc: true
 ---
 
@@ -13,7 +14,7 @@ suppress_toc: true
   * [Windows Server 2012 (ReFS и т.д.)](/software/windows/)
   * [О DLNA](/software/dlna/)
 * [Аппаратное обеспечение](/hardware/)
-  * [Конфигурации NASостроителей (таблица)](https://docs.google.com/spreadsheets/d/1_as59FHEl6qVXrYoK3CzwxsY2IQMFu6JVABoQ7iItvg/)
+  * [Конфигурации NAS-строителей (таблица)](https://docs.google.com/spreadsheets/d/1_as59FHEl6qVXrYoK3CzwxsY2IQMFu6JVABoQ7iItvg/)
   * [Staggered Spin-Up](/files/Implementing Staggered Spin Up v1.pdf)
 * [Тесно связанные с NAS вопросы](/nas_relative/)
   * [ZFS](/zfs/)
