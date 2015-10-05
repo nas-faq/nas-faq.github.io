@@ -5,13 +5,11 @@ categories: btrfs
 permalink: /btrfs/
 ---
 
-## BTRFS
-
 [Отдельный раздел](/btrfs/).
 
 Файловая система, разрабатываемая Oracle для Linux "по мотивам" ZFS.
 
-### Опыт построения хранилки с btrfs поверх <abbr title="Redundant Array of Inexpensive Disks">RAID </abbr>5
+## Опыт построения хранилки с btrfs поверх <abbr title="Redundant Array of Inexpensive Disks">RAID </abbr>5
 
 _Текст от первого лица авторства_ **BuDDiE**
 
