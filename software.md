@@ -48,12 +48,12 @@ __A.__ Покупные NAS, все роутеры и т.д. и т.п. рабо�
 *   [nas4free forum](http://forums.nas4free.org/index.php) (англ.)
 *   [русскоязычный форум](http://forums.nas4free.org/viewforum.php?f=44&sid=603e23082349bac63b5d8c9e50a5580a)
 *   [Русскоязычная инфа - установка, настройка, железо...](http://2gusia.livejournal.com/30360.html)
-*   [Тюнинг NAS4Free](http://forum.ixbt.com/topic.cgi?id=11:44215:3686#3686) от **Sergei V. Sh** Прим. **MikeMac** loader.conf с 847 версии правится через вебгуй аналогично rc.conf
-*   [Подробнее про тюнинг](http://forum.ixbt.com/topic.cgi?id=11:45199:2353#2353) от **thedix**
+*   [Тюнинг NAS4Free](http://forum.ixbt.com/topic.cgi?id=4:127822:3686#3686) от **Sergei V. Sh** Прим. **MikeMac** loader.conf с 847 версии правится через вебгуй аналогично rc.conf
+*   [Подробнее про тюнинг](http://forum.ixbt.com/topic.cgi?id=4:127864:2353#2353) от **thedix**
 *   [rc.conf Cheat Sheet](http://forums.nas4free.org/viewtopic.php?f=75&t=204)
 *   [перенаправление log](http://wiki.nas4free.org/doku.php?id=faq:0134)
-*   [Установка collectd на nas4free](http://forum.ixbt.com/topic.cgi?id=11:44215:2815#2815) от **jenci**
-*   [безопасный доступ снаружи к NAS](http://forum.ixbt.com/topic.cgi?id=11:44629-137#4076) от **Sergei V. Sh**
+*   [Установка collectd на nas4free](http://forum.ixbt.com/topic.cgi?id=4:127822:2815#2815) от **jenci**
+*   [безопасный доступ снаружи к NAS](http://forum.ixbt.com/topic.cgi?id=4:127819-137#4076) от **Sergei V. Sh**
 
 __Q.__ На Самбе при включении Max Protocol SMB2 происходят обрывы передачи.<br />
 __A.__ Из-за бага в samba 3.6.x SMB2 совместо с AIO не работает. Отключите AIO или замените SMB2 на NT1.
@@ -108,14 +108,14 @@ __A.__ Сохраняем конфиг на всякий случай, идём 
 
 ### Unix-семейство
 
-*   [Настройка прав на сетевую SAMBA папку из под Windows](http://forum.ixbt.com/topic.cgi?id=11:44215:3556#3556)
+*   [Настройка прав на сетевую SAMBA папку из под Windows](http://forum.ixbt.com/topic.cgi?id=4:127822:3556#3556)
     _How to_ от **kostya_1983**
 *   [Сборник скриптов от участников темы](https://github.com/Shesternin/NAS-HandMade)
 *   [Шифрование файлов в Linux и FreeBSD](http://ramzess.ru/shifrovanie-fajlov-v-linux-i-freebsd/)
-*   [Насколько сильно Transmission грузит процессор?](http://forum.ixbt.com/topic.cgi?id=11:44629-106#3120)
-*   [Transmission качает медленно на широком канале](http://forum.ixbt.com/topic.cgi?id=11:46201-76#2316)
+*   [Насколько сильно Transmission грузит процессор?](http://forum.ixbt.com/topic.cgi?id=4:127819-106#3120)
+*   [Transmission качает медленно на широком канале](http://forum.ixbt.com/topic.cgi?id=4:127805-76#2316)
 ответ от **RU_Taurus** и результат - см далее по ветке
-*   [Шпаргалка: Active Directory, CIFS/SMB](http://forum.ixbt.com/topic.cgi?id=11:45837-42#1240) от **Mikluhamaklay**
+*   [Шпаргалка: Active Directory, CIFS/SMB](http://forum.ixbt.com/topic.cgi?id=109:4-42#1240) от **Mikluhamaklay**
 
 #### Linux
 
@@ -129,16 +129,16 @@ __A.__ Сохраняем конфиг на всякий случай, идём 
 #### BSD-семейство (FreeBSD, PC-BSD...)
 
 * [Установка FreeBSD на zfs пул](https://wiki.freebsd.org/RootOnZFS/GPTZFSBoot/9.0-RELEASE)
-* [Установка FreeBSD на зашифрованный USB-носитель](http://forum.ixbt.com/topic.cgi?id=11:45199-166#4807) от __RU_Taurus__
+* [Установка FreeBSD на зашифрованный USB-носитель](http://forum.ixbt.com/topic.cgi?id=4:127864-166#4807) от __RU_Taurus__
 * [Перемещение интенсивных на запись каталогов FreeBSD в пространство zfs-пула.](
-http://forum.ixbt.com/topic.cgi?id=11:45199-7#190) от __RU_Taurus__
-* [Защищенный шифрованием удалённый backup NAS](http://forum.ixbt.com/topic.cgi?id=11:44629-130#3826) от __Oleg__
-* [О настройке transmission](http://forum.ixbt.com/topic.cgi?id=11:45837:2495#2495) от __RU_Taurus__
+http://forum.ixbt.com/topic.cgi?id=4:127864-7#190) от __RU_Taurus__
+* [Защищенный шифрованием удалённый backup NAS](http://forum.ixbt.com/topic.cgi?id=4:127819-130#3826) от __Oleg__
+* [О настройке transmission](http://forum.ixbt.com/topic.cgi?id=109:4:2495#2495) от __RU_Taurus__
 * О разграничении прав доступа от __RU_Taurus__
   * [NAS своими руками (часть 5), #3067](http://forum.ixbt.com/topic.cgi?id=11:43718:3067#3067)
   * [NAS своими руками (часть 5), #3330](http://forum.ixbt.com/topic.cgi?id=11:43718:3330#3330)
-* [Защита от переборщиков паролей](http://forum.ixbt.com/topic.cgi?id=11:46201-94#2797) от **WearWolf**
-* [Баг в AHCI-стеке FreeBSD 10.1 и лечение](http://forum.ixbt.com/topic.cgi?id=11:46201-94#2800)
+* [Защита от переборщиков паролей](http://forum.ixbt.com/topic.cgi?id=4:127805-94#2797) от **WearWolf**
+* [Баг в AHCI-стеке FreeBSD 10.1 и лечение](http://forum.ixbt.com/topic.cgi?id=4:127805-94#2800)
 от **MethroGnome**. См также пост **RU_Taurus** там же чуть ниже
 
 #### Solaris (Illumos, OpenIndiana, Nexenta, SmartOS...)
@@ -156,9 +156,9 @@ http://forum.ixbt.com/topic.cgi?id=11:45199-7#190) от __RU_Taurus__
 
 ##### Ответы
 
-* **#term** [NAS своими руками (часть 6), #2203](http://forum.ixbt.com/topic.cgi?id=11:44215:2203#2203)
-* **archa** [NAS своими руками (часть 6), #2263](http://forum.ixbt.com/topic.cgi?id=11:44215:2263#2263)
-* [Установка deluge-1.3.3 на Solaris](http://forum.ixbt.com/topic.cgi?id=11:44215:2438#2438) от **Brainstem**
+* **#term** [NAS своими руками (часть 6), #2203](http://forum.ixbt.com/topic.cgi?id=4:127822:2203#2203)
+* **archa** [NAS своими руками (часть 6), #2263](http://forum.ixbt.com/topic.cgi?id=4:127822:2263#2263)
+* [Установка deluge-1.3.3 на Solaris](http://forum.ixbt.com/topic.cgi?id=4:127822:2438#2438) от **Brainstem**
 * [Cборка свежего transmission-daemon на Solaris 11](http://forum.ixbt.com/topic.cgi?id=11:43718:3540#3540) от **Archer13**
 
 ## Мультиплатформное ПО
@@ -187,5 +187,5 @@ f - каталог для теста (без указания тестирует
 
 ### VMware vSphere ESXI
 
-* [Корректное завершение работы AiO: Esxi и ИБП APC Back-UPS USB](http://forum.ixbt.com/topic.cgi?id=11:46201-91#2712)
+* [Корректное завершение работы AiO: Esxi и ИБП APC Back-UPS USB](http://forum.ixbt.com/topic.cgi?id=4:127805-91#2712)
 от **student81**
