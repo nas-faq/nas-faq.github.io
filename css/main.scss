@@ -62,3 +62,26 @@ pre {
   overflow-x: auto;
 }
 
+h1,h2,h3,h4,h5,h6 {
+  font-weight: normal;
+  color: rgb(0,0,100);
+  text-shadow: 2px 2px 0 rgba(0,0,0,0.2);
+}
+
+h1 {font-size: 280%;}
+h2 {font-size: 250%;}
+h3 {font-size: 200%;}
+h4 {font-size: 180%;}
+h5 {font-size: 150%;}
+h6 {font-size: 100%;}
+
+#___TOC___ {
+    float: right;
+    //font-size: 10pt;
+    font-size: 90%;
+    width: 40%;
+    padding: 10px 10px 10px 20px;
+    border: solid 1px #ccd136;
+    margin: 0 0 10px 15px;
+    background-color: #f7f7ff;
+}

@@ -14,10 +14,15 @@
       });
  });
 </script>
+
+{% if false %}
 <hr />
 <p>
     <h1>{{ site.toc_name }} </h1>
     <div id="___TOC___"></div>
 </p>
 <hr />
-
+{% else %}
+<div id="___TOC___">
+</div>
+{% endif %}
