@@ -87,15 +87,15 @@ http://blogs.technet.com/b/windowsserver/archive/2012/04/19/smb-2-2-is-now-smb-3
 Основное достоинство новой SMB использование нескольких TCP-соединений внутри одной сессии,
 что позволяет практически линейно увеличивать пропускную способность при физическом расширении канала.
 
-[Источник](http://forum.ixbt.com/topic.cgi?id=11:44215:4103#4101)
+[Источник](http://forum.ixbt.com/topic.cgi?id=4:127822:4103#4101)
 
 ## Windows 2012. Тесты Storage Spaces + ReFS (от Krey)
 ### Ссылки
 *   [Дисковые пространства: программный RAID в Windows 8](http://www.ixbt.com/soft/windows-8-storage-spaces.shtml).
-*   [Опыт применения на производстве](http://forum.ixbt.com/topic.cgi?id=11:44629-143#4239). Очень стоит почитать!
+*   [Опыт применения на производстве](http://forum.ixbt.com/topic.cgi?id=4:127819-143#4239). Очень стоит почитать!
 
 ### Источник
-[Оригинальное сообщение в форуме](http://forum.ixbt.com/topic.cgi?id=11:44215:4103#4103)
+[Оригинальное сообщение в форуме](http://forum.ixbt.com/topic.cgi?id=4:127822:4103#4103)
 
 ### Результаты
 
