@@ -15,7 +15,7 @@ permalink: /nas_relative/
 
 [Отдельный раздел](/btrfs/).
 
-### Windows Server 2012: Используемые технологии: ReFS + Storage spaces + SMB3
+### Windows Server 2012
 
-[Отдельная статья](/software/windows/) от **Krey**.
-
+[Используемые технологии: ReFS + Storage spaces + SMB3](/software/windows/) -
+отдельная статья от **Krey**.

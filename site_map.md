@@ -23,6 +23,6 @@ suppress_toc: true
 
 ## Ссылки
 * [NAS своими руками (часть 11)](http://forum.ixbt.com/topic.cgi?id=109:82) - актуальная
-на данный момент конференция на IXBT, по материалам которой создан данный сайт.
+на данный момент ({{ site.time | date_to_long_string }}) конференция на IXBT, по материалам которой создан данный сайт.
 * [NAS своими руками, предыдущие части](http://forum.ixbt.com/?name=NAS+%F1%E2%EE%E8%EC%E8+%F0%F3%EA%E0%EC%E8&author=&tag=&posts_param=1&posts=&id=109)
 и другие тесно связанные темы.
