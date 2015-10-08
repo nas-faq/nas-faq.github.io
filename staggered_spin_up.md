@@ -22,6 +22,7 @@ permalink: /staggered_spin_up/
 
 #### Диски
 * WD*EFRX
+* HGST HDN724030ALE640
 
 ### Не работающие конфигурации
 #### Чипсеты

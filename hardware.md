@@ -56,7 +56,7 @@ permalink: /hardware/
 *   [NAS своими руками (часть 7), #1310](http://forum.ixbt.com/topic.cgi?id=11:44629-42#1310)
 от **jenci** NAS на AMD с памятью ECC
 *   [Географически распределённый вариант](http://forum.ixbt.com/topic.cgi?id=11:45199-126#3638)
-от **Oleg Pyzhov **
+от **Oleg Pyzhov**
 
 ## Выбор железа
 ### Процессор

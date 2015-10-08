@@ -8,6 +8,7 @@ url: "http://nas-faq.nas-faq.com" # the base hostname & protocol for your site
 #twitter_username: nas-faq
 github_username:  nas-faq/nas-faq.github.io
 # --------- our settings -------------------------------------------------------
+current_forum: http://forum.ixbt.com/topic.cgi?id=109:82
 toc_name: Содержание
 
 ######### Build settings #########
