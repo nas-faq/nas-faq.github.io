@@ -3,6 +3,8 @@ layout: page
 title:  Аппаратное обеспечение
 categories: hardware
 permalink: /hardware/
+
+toc_width: 30%
 ---
 
 ## Примеры конфигураций
