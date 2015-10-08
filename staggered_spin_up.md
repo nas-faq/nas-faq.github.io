@@ -21,8 +21,9 @@ permalink: /staggered_spin_up/
 * A50M
 
 #### Диски
-* WD*EFRX
+* WRC WD*EFRX
 * HGST HDN724030ALE640
+* TOSHIBA DT01ACA300
 
 ### Не работающие конфигурации
 #### Чипсеты
