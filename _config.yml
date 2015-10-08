@@ -17,6 +17,10 @@ redcarpet:
   extensions: 
     # - with_toc_data <- Not necessary, because we use JavaScript to make TOC on the fly.
     - autolink # converts links in text in a real links in the HTML
+    - no_intra_emphasis
+    - strikethrough
+    - superscript
 
 gems:
   - jekyll-sitemap
+  - jemoji
