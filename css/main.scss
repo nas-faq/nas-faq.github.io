@@ -76,11 +76,18 @@ h5 {font-size: 150%;}
 h6 {font-size: 100%;}
 
 #___TOC___ {
+    border-radius: 0.5em;
     float: right;
-    font-size: 90%;
-    width: 25%;
-    padding: 10px 10px 10px 20px;
-    border: solid 1px #ccd136;
-    margin: 0 0 10px 15px;
+    border: 1px solid #BBB;
     background-color: #f7f7ff;
+    font-size: 90%;
+    padding: 0.5em 0.5em 0.5em 0.5em;
+    max-width: 60%;
+}
+
+p.table-of-contents-heading {
+    font-weight: bold;
+    padding: 0px;
+    margin: 0px 0px 0.5em;
+    letter-spacing: 0.075em;
 }

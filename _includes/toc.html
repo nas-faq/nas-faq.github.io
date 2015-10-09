@@ -14,12 +14,9 @@
         $(item).html( "<a href='./'>"+$(this).text()+"</a>" );
         $(item).attr("id","wow"+i);
       });
-
-  {% if page.toc_width %}
-      $("#___TOC___").css("width", "{{ page.toc_width }}");
-  {% endif %}
  });
 </script>
 
 <div id="___TOC___">
+ <p class="table-of-contents-heading">{{ site.toc_name }}</p>
 </div>

@@ -3,8 +3,6 @@ layout: page
 title:  "ZFS"
 categories: zfs
 permalink: /zfs/
-
-toc_width: 40%
 ---
 
 ## Базовая документация по ZFS
