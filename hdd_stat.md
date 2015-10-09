@@ -113,5 +113,14 @@ Model: WDC WD20EFRX-68AX9N0    (ada2) s/n: WD-WMC300844***  T: 38°C   Work: 810
 Model: WDC WD20EFRX-68AX9N0    (ada3) s/n: WD-WMC300807***  T: 38°C   Work: 810 days
 Model: WDC WD20EFRX-68AX9N0    (ada4) s/n: WD-WMC300811***  T: 38°C   Work: 808 days
 Model: WDC WD20EFRX-68AX9N0    (ada5) s/n: WD-WMC300843***  T: 40°C   Work: 808 days
+
+@VID
+Model: WDC WD30EFRX-68EUZN0    (sda)  s/n: WD-WCC4NFVZ2***  T: 37°C   Work: 399 days
+Model: WDC WD30EZRX-00D8PB0    (sdb)  s/n: WD-WCC4N30LC***  T: 36°C   Work: 297 days
+Model: WDC WD30EZRX-00SPEB0    (sdc)  s/n: WD-WCC4EKNK9***  T: 42°C   Work: 297 days
+Model: WDC WD30EFRX-68EUZN0    (sdd)  s/n: WD-WCC4NPTKC***  T: 37°C   Work: 399 days
+Model: ST31000524AS            (sde)  s/n: 5VPCJ***         T: 36°C   Work: 489 days
+Model: WDC WD30EFRX-68EUZN0    (sdg)  s/n: WD-WCC4NFVZ2***  T: 37°C   Work: 412 days
+Model: WDC WD30EFRX-68EUZN0    (sdh)  s/n: WD-WCC4N6APE***  T: 36°C   Work: 148 days
 ```
 
