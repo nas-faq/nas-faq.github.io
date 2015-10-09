@@ -89,14 +89,14 @@ Model: Hitachi HDS5C3020ALA632 (ada2) s/n: ML0220F30MBGWD   T: 37°C   Work: 126
 Model: Hitachi HDS5C3020ALA632 (ada3) s/n: ML0220F30LZVZD   T: 36°C   Work: 1266 days
 Model: Hitachi HDS5C3020ALA632 (ada4) s/n: ML0220F30DG8HD   T: 36°C   Work: 1260 days
 Model: Hitachi HDS5C3020ALA632 (ada5) s/n: ML0220F30KDGYD   T: 37°C   Work: 1259 days
-Model: WDC WD10JUCT-63J6SY0    (da0) s/n: WD-WX31A3359810   T: 35°C   Work: 126 days
-Model: WDC WD10JUCT-63J6SY0    (da1) s/n: WD-WXP1EA2FNV88   T: 34°C   Work: 50 days
-Model: WDC WD10JUCT-63J6SY0    (da2) s/n: WD-WX31A3359412   T: 36°C   Work: 126 days
-Model: WDC WD10JUCT-63J6SY0    (da3) s/n: WD-WX31A3305084   T: 36°C   Work: 50 days
-Model: WDC WD10JUCT-63J6SY0    (da4) s/n: WD-WX31A3352183   T: 35°C   Work: 50 days
-Model: WDC WD10JUCT-63J6SY0    (da5) s/n: WD-WX91E13JYA45   T: 36°C   Work: 50 days
-Model: WDC WD10JUCT-63J6SY0    (da6) s/n: WD-WX31A3356924   T: 37°C   Work: 50 days
-Model: HGST HTS541010A9E680    (da7) s/n: JDA0001V1ZJMSJ    T: 35°C   Work: 53 days
+Model: WDC WD10JUCT-63J6SY0    (da0)  s/n: WD-WX31A3359810  T: 35°C   Work: 126 days
+Model: WDC WD10JUCT-63J6SY0    (da1)  s/n: WD-WXP1EA2FNV88  T: 34°C   Work: 50 days
+Model: WDC WD10JUCT-63J6SY0    (da2)  s/n: WD-WX31A3359412  T: 36°C   Work: 126 days
+Model: WDC WD10JUCT-63J6SY0    (da3)  s/n: WD-WX31A3305084  T: 36°C   Work: 50 days
+Model: WDC WD10JUCT-63J6SY0    (da4)  s/n: WD-WX31A3352183  T: 35°C   Work: 50 days
+Model: WDC WD10JUCT-63J6SY0    (da5)  s/n: WD-WX91E13JYA45  T: 36°C   Work: 50 days
+Model: WDC WD10JUCT-63J6SY0    (da6)  s/n: WD-WX31A3356924  T: 37°C   Work: 50 days
+Model: HGST HTS541010A9E680    (da7)  s/n: JDA0001V1ZJMSJ   T: 35°C   Work: 53 days
 
 Alexey Ukolov
 Model: ST320LM010-1KJ15C       (ada0) s/n: W625FL1P         T: 30°C   Work: 55 days
@@ -105,5 +105,13 @@ Model: HGST HDN724030ALE640    (ada2) s/n: PK1234P9HGHKHX   T: 39°C   Work: 122
 Model: HGST HDN724030ALE640    (ada3) s/n: PK1238P3G08DWB   T: 39°C   Work: 100 days
 Model: HGST HDN724030ALE640    (ada4) s/n: PK2234P9GLDHMY   T: 36°C   Work: 55 days
 Model: HGST HDN724030ALE640    (ada5) s/n: PK2234P9GW38RY   T: 32°C   Work: 55 days
+
+iva2019
+Model: WDC WD1002FAEX-00Z3A0   (ada0) s/n: WD-WCATRC021***  T: 42°C   Work: 766 days
+Model: WDC WD20EFRX-68AX9N0    (ada1) s/n: WD-WMC300609***  T: 41°C   Work: 813 days
+Model: WDC WD20EFRX-68AX9N0    (ada2) s/n: WD-WMC300844***  T: 38°C   Work: 810 days
+Model: WDC WD20EFRX-68AX9N0    (ada3) s/n: WD-WMC300807***  T: 38°C   Work: 810 days
+Model: WDC WD20EFRX-68AX9N0    (ada4) s/n: WD-WMC300811***  T: 38°C   Work: 808 days
+Model: WDC WD20EFRX-68AX9N0    (ada5) s/n: WD-WMC300843***  T: 40°C   Work: 808 days
 ```
 
