@@ -114,6 +114,12 @@ Model: WDC WD20EFRX-68AX9N0    (ada3) s/n: WD-WMC300807***  T: 38°C   Work: 810
 Model: WDC WD20EFRX-68AX9N0    (ada4) s/n: WD-WMC300811***  T: 38°C   Work: 808 days
 Model: WDC WD20EFRX-68AX9N0    (ada5) s/n: WD-WMC300843***  T: 40°C   Work: 808 days
 
+iva2019
+Model: ST3500410AS             (sda)  s/n: 5VM05***         T: 35*C   Work: 1027 days
+Model: WDC WD2002FAEX-007BA0   (sdb)  s/n: WD-WMAY00873***  T: 39*C   Work: 830 days
+Model: WDC WD1001FALS-00E8B0   (sdc)  s/n: WD-WMATV4259***  T: 37*C   Work: 1262 days
+
+
 @VID
 Model: WDC WD30EFRX-68EUZN0    (sda)  s/n: WD-WCC4NFVZ2***  T: 37°C   Work: 399 days
 Model: WDC WD30EZRX-00D8PB0    (sdb)  s/n: WD-WCC4N30LC***  T: 36°C   Work: 297 days
@@ -122,5 +128,35 @@ Model: WDC WD30EFRX-68EUZN0    (sdd)  s/n: WD-WCC4NPTKC***  T: 37°C   Work: 399
 Model: ST31000524AS            (sde)  s/n: 5VPCJ***         T: 36°C   Work: 489 days
 Model: WDC WD30EFRX-68EUZN0    (sdg)  s/n: WD-WCC4NFVZ2***  T: 37°C   Work: 412 days
 Model: WDC WD30EFRX-68EUZN0    (sdh)  s/n: WD-WCC4N6APE***  T: 36°C   Work: 148 days
+
+WearWolf
+Model: TOSHIBA DT01ACA200 (ad4) s/n: 45S683*** T: 31°C Work: 1 days
+Model: ST32000641AS            (0)    s/n: 9WM1G*** T:      34°C      Work: 1632 days
+Model: ST32000641AS            (1)    s/n: 9WM2B*** T:      34°C      Work: 1633 days
+Model: ST32000641AS            (2)    s/n: 9WM21*** T:      34°C      Work: 1683 days
+Model: ST32000641AS            (4)    s/n: 9WM2F*** T:      32°C      Work: 1685 days
+Model: ST32000641AS            (5)    s/n: 9WM22*** T:      33°C      Work: 1688 days
+
+GrayWolf
+Model: Hitachi HDS721010CLA332 (ada0) s/n: JP2921HQ******   T: 26°C   Work: 950 days
+Model: WDC WD20EZRX-00DC0B0    (ada1) s/n: WD-WCC300******  T: 28°C   Work: 505 days
+Model: Hitachi HDT721010SLA360 (ada2) s/n: STF604MH******   T: 30°C   Work: 861 days
+
+Power User
+Model: ST2000DL003-9VT166      (da0)  s/n: XXX              T:         Work: 1390 days  <- 152 bad sectors
+Model: ST2000DM001-9YN164      (da1)  s/n: XXX              T:         Work: 933 days
+Model: TOSHIBA DT01ACA300      (da10) s/n: XXX              T:         Work: 539 days
+Model: TOSHIBA DT01ACA300      (da11) s/n: XXX              T:         Work: 268 days
+Model: TOSHIBA DT01ACA300      (da12) s/n: XXX              T:         Work: 132 days
+Model: ST2000DM001-1CH164      (da13) s/n: XXX              T:         Work: 112 days
+Model: TOSHIBA DT01ACA300      (da14) s/n: XXX              T:         Work: 113 days
+Model: ST32000542AS            (da2)  s/n: XXX              T:         Work: 1769 days  <- 3975 bad sectors (подыхает) 
+Model: ST2000DM001-1CH164      (da3)  s/n: XXX              T:         Work: 555 days
+Model: ST32000542AS            (da4)  s/n: XXX              T:         Work: 1769 days  <- 208 bad sectors
+Model: TOSHIBA DT01ACA300      (da5)  s/n: XXX              T:         Work: 2 days
+Model: TOSHIBA DT01ACA300      (da6)  s/n: XXX              T:         Work: 1 days
+Model: TOSHIBA DT01ACA300      (da7)  s/n: XXX              T:         Work: 754 days
+Model: TOSHIBA DT01ACA300      (da8)  s/n: XXX              T:         Work: 575 days
+Model: TOSHIBA DT01ACA300      (da9)  s/n: XXX              T:         Work: 674 days
 ```
 
