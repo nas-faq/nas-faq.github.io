@@ -158,5 +158,10 @@ Model: TOSHIBA DT01ACA300      (da6)  s/n: XXX              T:         Work: 1 d
 Model: TOSHIBA DT01ACA300      (da7)  s/n: XXX              T:         Work: 754 days
 Model: TOSHIBA DT01ACA300      (da8)  s/n: XXX              T:         Work: 575 days
 Model: TOSHIBA DT01ACA300      (da9)  s/n: XXX              T:         Work: 674 days
+
+AlexLis
+Model: WDC WD20EFRX-68AX9N0    (ada0) s/n: WD-WMC3000487**  T: 33*C    Work: 1129 days
+Model: WDC WD20EFRX-68AX9N0    (ada1) s/n: WD-WMC3000430**  T: 33*C    Work: 1129 days
+Model: WDC WD20EFRX-68AX9N0    (ada2) s/n: WD-WMC3000468**  T: 33*C    Work: 1129 days
 ```
 
