@@ -163,5 +163,76 @@ AlexLis
 Model: WDC WD20EFRX-68AX9N0    (ada0) s/n: WD-WMC3000487**  T: 33*C    Work: 1129 days
 Model: WDC WD20EFRX-68AX9N0    (ada1) s/n: WD-WMC3000430**  T: 33*C    Work: 1129 days
 Model: WDC WD20EFRX-68AX9N0    (ada2) s/n: WD-WMC3000468**  T: 33*C    Work: 1129 days
-```
 
+sagem830
+Model: WDC WD30EZRX-00MMMB0    (ada0) s/n: WD-WCAWZ2554649  T: 34°C   Work: 954 days 
+Model: TOSHIBA DT01ACA300      (ada1) s/n: X3J7UMBGS        T: 36°C   Work: 603 days 
+Model: WDC WD40EZRX-00SPEB0    (ada2) s/n: WD-WCC4E0XZ5FSX  T: 36°C   Work: 120 days 
+Model: WDC WD40EZRX-00SPEB0    (ada3) s/n: WD-WCC4E7ZHA25L  T: 34°C   Work: 120 days 
+Model: WDC WD40EZRX-00SPEB0    (ada4) s/n: WD-WCC4E5KTHPCZ  T: 37°C   Work: 124 days 
+Model: WDC WD20EARX-00PASB0    (ada5) s/n: WD-WCAZAE553359  T: 36°C   Work: 673 days 
+Model: WDC WD30EZRX-00MMMB0    (da0)  s/n: WD-WCAWZ2546398  T: 33°C   Work: 815 days 
+Model: ST3000DM001-1CH166      (da1)  s/n: Z1F2LRYF         T: 32°C   Work: 606 days 
+Model: ST3000DM001-1CH166      (da2)  s/n: Z1F2L8MQ         T: 32°C   Work: 606 days 
+Model: TOSHIBA DT01ACA300      (da3)  s/n: X3K7ZZ0GS        T: 32°C   Work: 604 days 
+Model: TOSHIBA DT01ACA300      (da4)  s/n: 53IVHTPGS        T: 35°C   Work: 606 days 
+Model: TOSHIBA DT01ACA300      (da5)  s/n: 23L5072GS        T: 34°C   Work: 605 days 
+Model: TOSHIBA DT01ACA300      (da6)  s/n: 33RL62ZAS        T: 34°C   Work: 604 days 
+Model: TOSHIBA DT01ACA300      (da7)  s/n: 23LG7SUWS        T: 35°C   Work: 604 days
+
+futu
+Model: ST980811AS              (ada1) s/n: 5LY7JKB6         T: 38°C   Work: 1037 days
+Model: WDC WD5000BEVT-00A0RT0  (da0)  s/n: WD-WXD1EA0AHK16  T: 37°C   Work: 862 days
+Model: WDC WD5000BEVT-00A0RT0  (da1)  s/n: WD-WX71C90E5904  T: 38°C   Work: 896 days
+Model: ST3000DM001-1CH166      (da10) s/n: Z1F4EEL1         T: 40°C   Work: 529 days
+Model: ST3000DM001-1CH166      (da11) s/n: Z1F3QD46         T: 39°C   Work: 516 days
+Model: ST3000DM001-9YN166      (da2)  s/n: Z1F15ZNW         T: 32°C   Work: 867 days
+Model: ST3000DM001-1CH166      (da3)  s/n: Z1F1LTHW         T: 31°C   Work: 951 days
+Model: ST3000DM001-1CH166      (da4)  s/n: Z1F17MM6         T: 33°C   Work: 1021 days
+Model: ST3000DM001-9YN166      (da5)  s/n: Z1F17LXM         T: 41°C   Work: 742 days
+Model: HGST HDS724040ALE640    (da7)  s/n: PK1331PAKLBBNS   T: 36°C   Work: 453 days
+Model: ST3000DM001-1CH166      (da8)  s/n: W1F3F8HP         T: 40°C   Work: 562 days
+Model: ST3000DM001-1CH166      (da9)  s/n: Z1F47M6F         T: 40°C   Work: 535 days
+ 
+Model: WDC WD1600BEVS-22UST0   (sda)  s/n: WD-WXE508PK8318  T: 32°C   Work: 300 days
+Model: SAMSUNG HM500JI         (sdb)  s/n: S2HTJ9EB202625   T: 31°C   Work: 64 days
+Model: SAMSUNG HM500JI         (sdc)  s/n: S1WFJ9BZ860509   T: 32°C   Work: 374 days
+Model: SAMSUNG HM321HI         (sdd)  s/n: S27WJDRZ101712   T: 31°C   Work: 225 days
+ 
+Model: WDC WD20PURX-64P6ZY0    (ada0) s/n: WD-WCC4MECZKX4S  T: 43°C   Work: 290 days
+Model: WDC WD20PURX-64P6ZY0    (ada1) s/n: WD-WCC4M97D66FX  T: 41°C   Work: 266 days
+Model: ST500DM002-1BD142       (ada2) s/n: Z3T3RM1W         T: 30°C   Work: 808 days
+Model: WDC WD20PURX-64P6ZY0    (ada3) s/n: WD-WCC4M6VTHN9R  T: 36°C   Work: 210 days
+Model: WDC WD5000AAKX-08U6AA0  (ada4) s/n: WD-WCC2ETT87852  T: 42°C   Work: 139 days
+Model: WDC WD20PURX-64P6ZY0    (ada5) s/n: WD-WCC4M2KDK971  T: 31°C   Work: 170 days
+Model: WDC WD20PURX-64P6ZY0    (ada6) s/n: WD-WMC4M0EA19VZ  T: 31°C   Work: 171 days
+Model: WDC WD20PURX-64P6ZY0    (ada7) s/n: WD-WCC4M8Z2KHUH  T: 35°C   Work: 225 days
+
+axel77
+Model: WDC WD2500BPVT-00JJ5T0  (ada0) s/n: WD-WXF1EC1AMUZM  T: 28°C   Work: 692 days
+Model: WDC WD2500BPVT-00JJ5T0  (ada1) s/n: WD-WX21C32A3213  T: 28°C   Work: 699 days
+Model: WDC WD30EZRX-00MMMB0    (da0)  s/n: WD-WCAWZ2360131  T: 28°C   Work: 850 days
+Model: WDC WD30EZRX-00MMMB0    (da1)  s/n: WD-WCAWZ2388055  T: 32°C   Work: 850 days
+Model: WDC WD30EZRX-00MMMB0    (da2)  s/n: WD-WCAWZ2388099  T: 30°C   Work: 850 days
+Model: WDC WD30EZRX-00MMMB0    (da3)  s/n: WD-WCAWZ2393082  T: 29°C   Work: 850 days
+Model: WDC WD30EZRX-00MMMB0    (da4)  s/n: WD-WCAWZ2282656  T: 28°C   Work: 850 days
+Model: WDC WD30EZRX-00MMMB0    (da5)  s/n: WD-WCAWZ2346231  T: 27°C   Work: 850 days
+Model: WDC WD30EZRX-00MMMB0    (da6)  s/n: WD-WCAWZ2217932  T: 26°C   Work: 850 days
+Model: WDC WD30EZRX-00MMMB0    (da7)  s/n: WD-WCAWZ2374122  T: 26°C   Work: 850 days
+Model: WDC WD30EZRX-00MMMB0    (da8)  s/n: WD-WCAWZ2388192  T: 24°C   Work: 850 days
+Model: WDC WD30EZRX-00MMMB0    (da9)  s/n: WD-WCAWZ2384181  T: 32°C   Work: 850 days
+Model: WDC WD30EZRX-00MMMB0    (da10) s/n: WD-WCAWZ2389460  T: 31°C   Work: 850 days
+Model: WDC WD30EZRX-00MMMB0    (da11) s/n: WD-WCAWZ2362551  T: 29°C   Work: 850 days
+Model: WDC WD30EZRX-00MMMB0    (da12) s/n: WD-WCAWZ2344517  T: 28°C   Work: 850 days
+Model: WDC WD30EZRX-00MMMB0    (da13) s/n: WD-WCAWZ2327445  T: 25°C   Work: 850 days
+Model: WDC WD30EZRX-00MMMB0    (da14) s/n: WD-WCAWZ2389536  T: 31°C   Work: 850 days
+Model: WDC WD30EZRX-00MMMB0    (da15) s/n: WD-WCAWZ2388023  T: 31°C   Work: 850 days
+Model: WDC WD30EZRX-00MMMB0    (da16) s/n: WD-WCAWZ2388040  T: 30°C   Work: 850 days
+Model: WDC WD30EZRX-00MMMB0    (da17) s/n: WD-WCAWZ2395323  T: 28°C   Work: 850 days
+Model: WDC WD30EZRX-00MMMB0    (da18) s/n: WD-WCAWZ2388019  T: 26°C   Work: 850 days
+Model: WDC WD30EZRX-00MMMB0    (da19) s/n: WD-WCAWZ2389481  T: 28°C   Work: 850 days
+Model: WDC WD30EZRX-00MMMB0    (da20) s/n: WD-WCAWZ2369125  T: 28°C   Work: 850 days
+Model: WDC WD30EZRX-00MMMB0    (da21) s/n: WD-WCAWZ2200535  T: 27°C   Work: 850 days
+Model: WDC WD30EZRX-00MMMB0    (da22) s/n: WD-WCAWZ2389869  T: 26°C   Work: 850 days
+Model: WDC WD30EZRX-00MMMB0    (da23) s/n: WD-WCAWZ2389466  T: 25°C   Work: 853 days 
+```
