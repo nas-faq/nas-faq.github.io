@@ -238,7 +238,7 @@ fig 4 свидетельствует о том, что оптимальная д
 Наиболее популярен в нашей ветке Dell H200A, [IBM m1015](http://www.servethehome.com/ibm-m1015-part-1-started-lsi-92208i/),
 причём [перешитый в IT.](http://forum.ixbt.com/topic.cgi?id=11:43801:1425#1425) <br />
 Ср. также [достался мне Dell Perc H310](http://forum.ixbt.com/topic.cgi?id=4:127805-166#4860)
-от **sagem830**
+от **sagem830** + [вариант](http://forum.ixbt.com/topic.cgi?id=4:127864:1923#1923) от коллеги **VaZoR**
 
 **Q**. Хочу добавить SATA портов, использовав SATA мультипликатор (SATA Port Multiplier).
 Скорость упадёт? <br />
