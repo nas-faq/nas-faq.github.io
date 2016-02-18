@@ -21,13 +21,14 @@ layout: default
   </ul>
 -->
 
-      <div class="trigger">
-        {% for page in site.pages %}
-          {% if page.for_index %}
-            {{ page.content | markdownify }}
-          {% endif %}
-        {% endfor %}
-      </div>
+    {% include search.html %}
+    <div class="trigger">
+    {% for page in site.pages %}
+      {% if page.for_index %}
+        {{ page.content | markdownify }}
+      {% endif %}
+    {% endfor %}
+    </div>
 
 <!--
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
