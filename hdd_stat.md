@@ -53,7 +53,7 @@ Model: WDC WD20EFRX-68EUZN0    (ada4) s/n: WD-WCC4M3010982  T: 40°C   Work: 306
 Model: ST2000DL003-9VT166      (ada5) s/n: 5YD3NVA9         T: 40°C   Work: 1211 days
 
 AvtoUser (UPD: 07.Apr.2016)
-Model: ST4000DM000-1F2168      (ada1) s/n: xxxxxxx         T: 31°C   Work: 741 days <- активно подыхает, см. http://forum.ixbt.com/topic.cgi?id=109:82:4203#4203
+Model: ST4000DM000-1F2168      (ada1) s/n: xxxxxxx         T: 31°C   Work: 741 days <- активно подыхает, (*) 
 Model: ST4000DM000-1F2168      (ada2) s/n: xxxxxxx         T: 32°C   Work: 741 days
 Model: ST4000DM000-1F2168      (ada3) s/n: xxxxxxx         T: 31°C   Work: 741 days
 Model: ST4000DM000-1F2168      (ada4) s/n: xxxxxxx         T: 31°C   Work: 741 days
@@ -65,8 +65,11 @@ Model: WDC WD20EARS-00S8B1     (da2)  s/n: xxxxxxx         T: 34°C   Work: 1576
 Model: WDC WD20EARX-00PASB0    (da3)  s/n: xxxxxxx         T: 32°C   Work: 1202 days
 Model: WDC WD20EARX-00PASB0    (da4)  s/n: xxxxxxx         T: 31°C   Work: 1196 days
 Model: WDC WD20EARX-00PASB0    (da5)  s/n: xxxxxxx         T: 32°C   Work: 1199 days
+```
+*) См. http://forum.ixbt.com/topic.cgi?id=109:82:4203#4203
 
 
+```
 Archer13
 Model: SAMSUNG HD154UI         (sdb)  s/n: S1Y6J1KZ207240   T: 31°C   Work: 1938 days
 Model: SAMSUNG HD154UI         (sdc)  s/n: S1Y6J1KZ207200   T: 32°C   Work: 1234 days
