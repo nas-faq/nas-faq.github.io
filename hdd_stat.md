@@ -52,19 +52,20 @@ Model: WDC WD20EFRX-68EUZN0    (ada3) s/n: WD-WCC4M5LES24E  T: 39°C   Work: 105
 Model: WDC WD20EFRX-68EUZN0    (ada4) s/n: WD-WCC4M3010982  T: 40°C   Work: 306 days
 Model: ST2000DL003-9VT166      (ada5) s/n: 5YD3NVA9         T: 40°C   Work: 1211 days
 
-AvtoUser
-Model: ST4000DM000-1F2168      (ada1) s/n: Z300Y***         T: 29°C   Work: 570 days
-Model: ST4000DM000-1F2168      (ada2) s/n: Z300V***         T: 30°C   Work: 570 days
-Model: ST4000DM000-1F2168      (ada3) s/n: Z300Y***         T: 29°C   Work: 570 days
-Model: ST4000DM000-1F2168      (ada4) s/n: Z300T***         T: 29°C   Work: 570 days
-Model: ST4000DM000-1F2168      (ada5) s/n: Z300X***         T: 28°C   Work: 570 days
-Model: ST4000DM000-1F2168      (ada6) s/n: Z300W***         T: 29°C   Work: 570 days
-Model: WDC WD20EARS-00S8B1     (da0)  s/n: WD-WCAVY2512***  T: 32°C   Work: 1408 days
-Model: WDC WD20EARX-00PASB0    (da1)  s/n: WD-WMAZA7703***  T: 30°C   Work: 1029 days
-Model: WDC WD20EARS-00S8B1     (da2)  s/n: WD-WCAVY2892***  T: 32°C   Work: 1405 days
-Model: WDC WD20EARX-00PASB0    (da3)  s/n: WD-WMAZA7046***  T: 30°C   Work: 1032 days
-Model: WDC WD20EARX-00PASB0    (da4)  s/n: WD-WMAZA7101***  T: 30°C   Work: 1026 days
-Model: WDC WD20EARX-00PASB0    (da5)  s/n: WD-WMAZA7115***  T: 30°C   Work: 1029 days
+AvtoUser (UPD: 07.Apr.2016)
+Model: ST4000DM000-1F2168      (ada1) s/n: xxxxxxx         T: 31°C   Work: 741 days <- активно подыхает, см. http://forum.ixbt.com/topic.cgi?id=109:82:4203#4203
+Model: ST4000DM000-1F2168      (ada2) s/n: xxxxxxx         T: 32°C   Work: 741 days
+Model: ST4000DM000-1F2168      (ada3) s/n: xxxxxxx         T: 31°C   Work: 741 days
+Model: ST4000DM000-1F2168      (ada4) s/n: xxxxxxx         T: 31°C   Work: 741 days
+Model: ST4000DM000-1F2168      (ada5) s/n: xxxxxxx         T: 31°C   Work: 741 days
+Model: ST4000DM000-1F2168      (ada6) s/n: xxxxxxx         T: 33°C   Work: 741 days
+Model: WDC WD20EARS-00S8B1     (da0)  s/n: xxxxxxx         T: 34°C   Work: 1578 days
+Model: WDC WD20EARX-00PASB0    (da1)  s/n: xxxxxxx         T: 32°C   Work: 1199 days
+Model: WDC WD20EARS-00S8B1     (da2)  s/n: xxxxxxx         T: 34°C   Work: 1576 days
+Model: WDC WD20EARX-00PASB0    (da3)  s/n: xxxxxxx         T: 32°C   Work: 1202 days
+Model: WDC WD20EARX-00PASB0    (da4)  s/n: xxxxxxx         T: 31°C   Work: 1196 days
+Model: WDC WD20EARX-00PASB0    (da5)  s/n: xxxxxxx         T: 32°C   Work: 1199 days
+
 
 Archer13
 Model: SAMSUNG HD154UI         (sdb)  s/n: S1Y6J1KZ207240   T: 31°C   Work: 1938 days
