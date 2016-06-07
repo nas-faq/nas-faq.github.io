@@ -7,7 +7,7 @@
  $(document).ready(function(){
       $("h2,h3,h4,h5,h6").each(function(i,item){
         // Making position independent TOC anchors.
-        var hash = Crypt.HASH.sha1($(this).text());
+        var hash = CryptoJS.SHA1($(this).text());
         var tag = $(item).get(0).localName;
         $("#___TOC___").append('<a class="new'+tag+'" href="#wow'+hash+'">'+$(this).text()+'</a></br>');
         $(".newh2").css("margin-left",0);
