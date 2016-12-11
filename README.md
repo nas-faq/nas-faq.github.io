@@ -1,8 +1,5 @@
 ## About
-Здесь находятся материалы сайта http://www.nas-faq.com
-относящегося к конференции [NAS своими руками](http://forum.ixbt.com/topic.cgi?id=109:82).
-
-"Родной" адрес на GitHub Pages: http://nas-faq.github.io. Следует его использовать в случае проблем с доменом nas-faq.com.
+Здесь находятся материалы сайта http://nas-faq.github.io, относящегося к конференции [NAS своими руками](http://forum.ixbt.com/topic.cgi?id=109:256).
 
 ## Рекомендации редактирующим
 
