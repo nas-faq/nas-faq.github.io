@@ -48,7 +48,7 @@ __A.__ Покупные NAS, все роутеры и т.д. и т.п. рабо�
 *   [nas4free forum](http://forums.nas4free.org/index.php) (англ.)
 *   [русскоязычный форум](http://forums.nas4free.org/viewforum.php?f=44&sid=603e23082349bac63b5d8c9e50a5580a)
 *   [Русскоязычная инфа - установка, настройка, железо...](http://2gusia.livejournal.com/30360.html)
-*   [Тюнинг NAS4Free](http://forum.ixbt.com/topic.cgi?id=4:127822:3686#3686) от **Sergei V. Sh** Прим. **MikeMac** loader.conf с 847 версии правится через вебгуй аналогично rc.conf
+*   Тюнинг NAS4Free - удалено. С версии 11.0 всё работает из коробки **MikeMac**
 *   [Подробнее про тюнинг](http://forum.ixbt.com/topic.cgi?id=4:127864:2353#2353) от **thedix**
 *   [rc.conf Cheat Sheet](http://forums.nas4free.org/viewtopic.php?f=75&t=204)
 *   [перенаправление log](http://wiki.nas4free.org/doku.php?id=faq:0134)
