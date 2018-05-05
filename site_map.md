@@ -16,7 +16,7 @@ suppress_toc: true
 * [Аппаратное обеспечение](/hardware/)
   * [Конфигурации NAS-строителей (таблица)](https://docs.google.com/spreadsheets/d/1_as59FHEl6qVXrYoK3CzwxsY2IQMFu6JVABoQ7iItvg/)
   * [Последовательная раскрутка дисков](/staggered_spin_up/)
-  * [Статистика по жестким дискам](/hdd_stat/)
+  * [Статистика по жестким дискам](https://www.backblaze.com/blog/?s=Hard+Drive+Stats)
 * [Тесно связанные с NAS вопросы](/nas_relative/)
   * [ZFS](/zfs/)
   * [BTRFS](/btrfs/)
