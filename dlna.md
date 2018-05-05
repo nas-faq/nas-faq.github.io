@@ -8,6 +8,7 @@ permalink: /software/dlna/
 ## Популярные сервисы
 
 1. [Plex](https://plex.tv/)
+1. [Emby](https://emby.media/)
 1. [Twonky](http://twonky.com/)
 1. [Mini-DLNA](http://sourceforge.net/projects/minidlna/)
 1. [Serviio](http://serviio.org/)
