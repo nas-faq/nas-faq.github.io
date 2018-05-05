@@ -307,16 +307,12 @@ __NB__ это всё может работать, если на этом кан�
 
 [Корпус на 14 дисков](http://forum.ixbt.com/topic.cgi?id=4:127864-167#4820) от **lepon**, фото
 
-[Одержание кулера и всё-всё](http://forum.ixbt.com/topic.cgi?id=109:4-51#1519) от **markus912**, фото  
-
-[  
-](http://kom.aau.dk/%7Epmr/StumbleUpon/SATA-backplane/)
+[Одержание кулера и всё-всё](http://forum.ixbt.com/topic.cgi?id=109:4-51#1519) от **markus912**, фото
 
 ### Платформы помимо x32/x64  
 
 [Установка FreeBSD на Netgear Stora с поддержкой ZFS](http://forum.netgear.ru/viewtopic.php?id=7170) от **Oddentity**
 
-[Openmediavault 0.6 kralizec on Netgear Stora]
-(http://chrislamothe.blogspot.ru/2014/08/openmediavault-06-kralizec-on-netgear.html) от **Chris LaMothe**
+[Openmediavault 0.6 kralizec on Netgear Stora](http://chrislamothe.blogspot.ru/2014/08/openmediavault-06-kralizec-on-netgear.html) от **Chris LaMothe**
 
 [SATA backplane for Fractal Design Define R3](http://kom.aau.dk/%7Epmr/StumbleUpon/SATA-backplane/)
