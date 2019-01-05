@@ -34,6 +34,14 @@ permalink: /staggered_spin_up/
 #### Диски
 * ST3000DM001
 
+### Как включить PUIS на HDD
+На Linux выполнить команду:
+`sudo hdparm --yes-i-know-what-i-am-doing -s 1 /dev/sdX`
+
+Гдк sdX - ваш диск.
+
+За подробностями - `man hdparm`.
+
 ## Ссылки
 * [Спецификация Staggered Spin-Up](/files/Implementing Staggered Spin Up v1.pdf)
 * [Конференция на IXBT](http://forum.ixbt.com/topic.cgi?id=11:44797)
