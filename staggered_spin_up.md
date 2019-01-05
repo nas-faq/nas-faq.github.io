@@ -16,6 +16,7 @@ permalink: /staggered_spin_up/
 * B75
 * H77
 * Q77
+* Z77
 
 ##### AMD
 * A50M
@@ -24,6 +25,7 @@ permalink: /staggered_spin_up/
 * WRC WD*EFRX
 * HGST HDN724030ALE640
 * TOSHIBA DT01ACA300
+* WDC WD80EZAZ-11TDBA0 (из внешней USB-коробки WD My Book, по сути "перекрашенный" HGST)
 
 ### Не работающие конфигурации
 #### Чипсеты
