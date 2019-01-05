@@ -23,7 +23,7 @@ suppress_toc: true
   * [Особенности подключения некоторых сетевых устройств к NAS (Dune и т.п.)](/net_devices/)
 
 ## Ссылки
-* [NAS своими руками](http://forum.ixbt.com/topic.cgi?id=109:309) - актуальная
+* [NAS своими руками](https://forum.ixbt.com/topic.cgi?id=109:348) - актуальная
 на данный момент конференция на IXBT, по материалам которой создан данный сайт.
 * [NAS своими руками, предыдущие части](http://forum.ixbt.com/?name=NAS+%F1%E2%EE%E8%EC%E8+%F0%F3%EA%E0%EC%E8&author=&tag=&posts_param=1&posts=&id=109)
 и другие тесно связанные темы.
