@@ -38,7 +38,7 @@ permalink: /staggered_spin_up/
 На Linux выполнить команду:
 `sudo hdparm --yes-i-know-what-i-am-doing -s 1 /dev/sdX`
 
-Гдк sdX - ваш диск.
+Где sdX - ваш диск.
 
 За подробностями - `man hdparm`.
 
